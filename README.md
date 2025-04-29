@@ -1,2 +1,3 @@
 # centripetal_force
 This jQuery animation can help you to understand centripetal force and can be a helping code for beginners.
+Like the word states "Centri=>Center=>Centre" Pe "PI" Force; is an energy that is needed to cross a value of PI; for example we know pathline from Kualalumpur Malaysia to Beijing China is very sensitive line; because it is close to the edges of the globe; to move on this line thing which is important is basically force; if force is not applied with right precission and accuracy it can leave the aeroplane pulled in space; it is matter of parallel universes; to read more about centripetal force please follow https://en.wikipedia.org/wiki/Centripetal_force.
